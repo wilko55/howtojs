@@ -1,8 +1,8 @@
-# library-frontend app
+# How to JS
 ### (currently does very little)
 - [Install node](https://nodejs.org/en/download/)
 - Clone repo and go into directory
 - Run ``npm install`` to install dependencies
-- Install nodemon: ``sudo npm install -g nodemon``
-- Run ``npm test`` to run tests
-- Run ``npm start`` to run the application - then head to [localhost:3000](http://localhost:3000)
+- Edit ex1_objects.js in your code editor and complete the task
+- Run ``npm start`` to run the application and test your code
+- Move on to exercise 2 (and repeat)
